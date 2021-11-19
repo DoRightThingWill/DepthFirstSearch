@@ -1,0 +1,2 @@
+## Depth First Search is a Quite Useful Algorithm
+In this repo, I am sharing some typical coding questions and the solutions. Compare them and summarize into a common strategy to solve this kind of problems.
